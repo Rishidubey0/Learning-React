@@ -6,7 +6,6 @@ function App() {
       <header className="bg-dark text-white p-4 text-center">
         <h1>My Simple React Website</h1>
         <nav>
-          <a href="#home" className="text-white mx-3">Home</a>
           <a href="#about" className="text-white mx-3">About</a>
           <a href="#contact" className="text-white mx-3">Contact</a>
         </nav>
